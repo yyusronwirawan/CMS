@@ -23,7 +23,7 @@ It's an application to minimize your problems while creating a new web applicati
 
 **1. Clone From Github**
 ```bash
-git clone https://github.com/ManiruzzamanAkash/LaraCMS.git
+git clone https://github.com/yyusronwirawan/CMS.git
 ```
 
 **2. Go to that folder**
